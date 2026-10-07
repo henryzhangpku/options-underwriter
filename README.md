@@ -22,10 +22,10 @@ Numbered rules with a commentary, in the same format as [The Art of Options War]
 
 | | PDF | EPUB |
 |---|---|---|
-| English | [The Options Underwriter.pdf](https://github.com/henryzhangpku/options-underwriter/releases/latest/download/The-Options-Underwriter.pdf) | [.epub](https://github.com/henryzhangpku/options-underwriter/releases/latest/download/The-Options-Underwriter.epub) |
-| 中文 | [期权承保.pdf](https://github.com/henryzhangpku/options-underwriter/releases/latest/download/Options-Underwriter-zh.pdf) | [.epub](https://github.com/henryzhangpku/options-underwriter/releases/latest/download/Options-Underwriter-zh.epub) |
+| English | [The Options Underwriter.pdf](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/options-underwriter/The-Options-Underwriter.pdf) | [.epub](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/options-underwriter/The-Options-Underwriter.epub) |
+| 中文 | [期权承保.pdf](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/options-underwriter/%E6%9C%9F%E6%9D%83%E6%89%BF%E4%BF%9D.pdf) | [.epub](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/options-underwriter/%E6%9C%9F%E6%9D%83%E6%89%BF%E4%BF%9D.epub) |
 
-Built from this same text, so the file and the repository cannot disagree. No email required for any of it.
+Built from this same text, so the file and the repository cannot disagree. No email required for any of it. The same files are also attached to the [v1 release](https://github.com/henryzhangpku/options-underwriter/releases/tag/v1).
 
 The Chinese edition is written for Chinese readers, paragraph for paragraph with the English, rather than translated word for word. Every rule, fact and number is the same in both.
 

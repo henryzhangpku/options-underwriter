@@ -63,6 +63,8 @@ The ideas the commentary rests on are the ones I actually trade: size over frequ
 
 Corrections are welcome — open an issue or a pull request. If you find a place where the arithmetic in the commentary does not check out on paper, that is the most useful issue you can file.
 
+The chapter files in `en/` and `zh/` are generated from the edition in the Henry Zhang Books app, so the two never disagree about the text. An accepted correction is made at that source and the chapters are regenerated; a pull request against a chapter file is the place to point at the fix, not the place it lands.
+
 Translations into other languages are welcome as forks; tell me and I will link yours from here.
 
 ## Licence

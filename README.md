@@ -56,6 +56,7 @@ Henry Zhang · 张恒 — [officialhenryzhang.com](https://www.officialhenryzhan
 The ideas the commentary rests on are the ones I actually trade: size over frequency, a limit on every position, one side first, hedge into a condor only when hurt, cut the short leg and keep the wing.
 
 - **Also by the author** — [The Art of Options War · 期权兵法](https://github.com/henryzhangpku/art-of-options-war), the same trade read through Sun Tzu.
+- **Also by the author** — [The Counted Trade · 算而后战](https://github.com/henryzhangpku/the-counted-trade), the other side of the same trade: the Thirty-Six Stratagems read for the buyer of asymmetric options, with Jamie Mai's practice as a thread.
 - **Henry Zhang Books on the App Store** — [the reading app](https://apps.apple.com/app/id6792229566), with the bilingual toggle.
 - **Notes and letters** — [henryzhang.substack.com](https://henryzhang.substack.com/)
 

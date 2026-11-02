@@ -51,7 +51,7 @@ This book is education, not advice. It contains no recommendations for you perso
 
 ## The author
 
-Henry Zhang · 张恒 — [officialhenryzhang.com](https://www.officialhenryzhang.com)
+Henry Zhang · 张恒 — [officialhenryzhang.com](https://www.officialhenryzhang.com) · [LinkedIn](https://www.linkedin.com/in/henryzhang99/) · [GitHub](https://github.com/henryzhangpku)
 
 The ideas the commentary rests on are the ones I actually trade: size over frequency, a limit on every position, one side first, hedge into a condor only when hurt, cut the short leg and keep the wing.
 

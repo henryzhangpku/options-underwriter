@@ -29,6 +29,8 @@ Built from this same text, so the file and the repository cannot disagree. No em
 
 The Chinese edition is written for Chinese readers, paragraph for paragraph with the English, rather than translated word for word. Every rule, fact and number is the same in both.
 
+Prefer it in your inbox? The PDF and EPUB, English and 中文, are also free in the [Quant Signals shop](https://shop.quantsignals.xyz/products/the-options-underwriter-free-ebook-english).
+
 ## The thirteen chapters
 
 | | | | |
